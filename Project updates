@@ -4,3 +4,9 @@ looked into Markov decision processes( will do research on our own)
 started creating a decision tree where the start is 0 outs and no runners and the sink is 3 outs and runner position doesn't matter 
 24 posssible states 
 Tayler and Vaibhav discussed meeting friday afternoon to continue working on the project. 
+
+5/2/26
+Tayler made a pdf of baseball stats to give to the team on discord.
+Tayler sugested lookin into batting averages paired with On-base plus slugging to create a probability density function on the battling line up of a
+to predict where in the line up a team will score
+
