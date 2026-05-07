@@ -10,3 +10,11 @@ Tayler made a pdf of baseball stats to give to the team on discord.
 Tayler sugested lookin into batting averages paired with On-base plus slugging to create a probability density function on the battling line up of a
 to predict where in the line up a team will score
 
+5/6/26
+Tayler, Vaibhav, and Chiahan looked over baseball stats and anayzed a baseball game to tried and predict when a team would score.
+discussed how to make a model to determine teams winning chances. 
+Tayler will look into making a PDF of the possible points in a batting line up
+Using Pybaseball to take in baseball data to be used in python code.
+Vaibhav will work on MDP (trasition matrix)
+Chianhan will look into Pybaseball (what kind of data we can use)
+
